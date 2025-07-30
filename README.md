@@ -1,7 +1,7 @@
 <!-- README.md for github.com/DishaA06 with ✨Aesthetic Vibes✨ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=30&duration=4000&pause=500&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;GSSoC'25+Contributor+%F0%9F%94%A5;Dev+%E2%9C%A8;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=2000&pause=50&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;GSSoC'25+Contributor+%F0%9F%94%A5;Dev+%E2%9C%A8;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-### 🌸 My Aesthetic Tech Stack
+### 🌸 My Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,blender,java,vscode,figma&perline=7" alt="Skill icons" />
