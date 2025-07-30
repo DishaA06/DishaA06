@@ -13,7 +13,7 @@
 ### 🌷 About Me
 
 - 🎓 B.E. Student | GSSoC'25 Contributor
-- 💻 Frontend Dev with a love for clean UI & ✨ Tailwind Magic
+- 💻 Dev with a love for clean UI & ✨ Tailwind Magic
 - 🌸 Passionate about open-source, communities & empowering tech
 - 💬 Always up for collabs, memes, and making side-projects aesthetic AF
 
@@ -22,12 +22,12 @@
 ### 🌸 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,blender,java,vscode,figma&perline=7" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwind,git,github,blender,java,vscode,figma&perline=12" alt="Skill icons" />
 </p>
 
 ---
 
-### 📈 GitHub Vibes
+### 📈 GitHub 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DishaA06&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff90b3&fire=ffa5d8&currStreakLabel=ffc6e0&border=DDDDDD00" />
