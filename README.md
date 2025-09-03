@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=2000&pause=50&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;GSSoC'25+Contributor+%F0%9F%94%A5;Dev+%E2%9C%A8;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=2000&pause=50&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;;Dev+%E2%9C%A8;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
 </h1>
 
 <p align="center">
