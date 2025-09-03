@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/disha-oza-bba48928a/"><img src="https://img.shields.io/badge/LinkedIn-DishaOza-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/croqi_us?utm_source=ig_web_button_share_sheet&igsh=MWJqNXFvOHc3cnptNA=="><img src="https://img.shields.io/badge/Instagram-ARTPAGE-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.instagram.com/croqi_us?utm_source=ig_web_button_share_sheet&igsh=MWJqNXFvOHc3cnptNA=="><img src="https://img.shields.io/badge/Instagram-ARTPAGE-pink?style=for-the-badge&logo=Instagram" /></a>
 </p>
 
 ---
