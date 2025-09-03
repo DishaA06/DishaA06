@@ -1,11 +1,14 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=2000&pause=50&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;;Dev+%E2%9C%A8;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=50&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;Dev+%E2%9C%A8;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
+</p>
+
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/nb4cCMF3n0Pug/giphy.gif" width="200px" alt="Animated GIF" />
-</p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJsenI0OThuZ2k1ZTAydHhrcDQ1MDhkMWp1bXoxaG52eGZqMzNlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeifUCe6qj1zeYE/giphy.gif" width="500px" alt="Animated GIF" />
+</p>  
 
 ---
 
@@ -14,14 +17,14 @@
 - 🎓 B.E. Student |
 - 💻 Dev with a love for clean UI & ✨ Tailwind Magic
 - 🌸 Passionate about open-source, communities & empowering tech
-- 💬 Always up for collabs, memes, and making side-projects aesthetic AF
+- 💬 Always up for collabs, memes, and making side-projects aesthetic AF!
 
 ---
 
 ### 🌸 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwind,git,github,blender,java,vscode,figma&perline=12" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,blender,java,vscode,figma&perline=12" alt="Skill icons" />
 </p>
 
 ---
