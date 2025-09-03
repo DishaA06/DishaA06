@@ -47,7 +47,7 @@
 <!--     <a href="mailto:doza57524@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yourname@example.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=doza57524@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-DishaOza-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
