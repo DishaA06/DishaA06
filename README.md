@@ -44,6 +44,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/disha-oza-bba48928a/"><img src="https://img.shields.io/badge/LinkedIn-DishaOza-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.instagram.com/croqi_us?utm_source=ig_web_button_share_sheet&igsh=MWJqNXFvOHc3cnptNA=="><img src="https://img.shields.io/badge/Instagram-ARTPAGE-pink?style=for-the-badge&logo=Instagram" /></a>
+    <a href="mailto:yourname@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -51,10 +53,10 @@
 ### 🌼 A quote I live by
 
 > _“All you've been is all you'll ever be ”_  
-> — Charlie Day
+> — Idk who
 
 ---
 
 <sub align="center">
-Built with ☕, 🍪, and a lot of Ctrl+Z.
+Built with ☕, 🍜, and a lot of Ctrl+Z.(bieng frrr)
 </sub>
