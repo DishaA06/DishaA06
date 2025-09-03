@@ -50,7 +50,7 @@
 
 ### 🌼 A quote I live by
 
-> _“You don’t have to be fearless, just don’t let fear stop you.”_  
+> _“All you've been is all you'll ever be ”_  
 > — Charlie Day
 
 ---
