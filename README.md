@@ -42,8 +42,8 @@
 ### 💌 Let’s Link Up
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/disha-oza-bba48928a/"><img src="https://img.shields.io/badge/LinkedIn-DishaOza-pink?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:doza57524@gmail.com"><img src="https://img.shields.io/badge/Email-Hit+me+up!-ff69b4?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/disha-oza-bba48928a/"><img src="https://img.shields.io/badge/LinkedIn-DishaOza-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:doza57524@gmail.com"><img src="https://img.shields.io/badge/Email-Hit+me+up!red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
