@@ -17,7 +17,7 @@
 - 🎓 B.E. Student |
 - 💻 Dev with a love for clean UI & ✨ Tailwind Magic
 - 🌸 Passionate about open-source, communities & empowering tech
-- 💬 Always up for collabs, memes, and making side-projects aesthetic AF!
+- 💬 Always up for collabs, memes, and making funside-projects!
 
 ---
 
