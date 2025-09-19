@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=50&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;Dev+%E2%9C%A8;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=30&duration=2000&pause=50&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;Dev+%E2%9C%A8;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
 </p>
 
 
