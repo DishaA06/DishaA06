@@ -64,5 +64,5 @@
 ---
 
 <sub align="center">
-Built with ☕, 🍜, and a lot of Ctrl+Z.(bieng frrr)
+Built with ☕, 🍜, and a lot of Ctrl+Z.(being fr)
 </sub>
