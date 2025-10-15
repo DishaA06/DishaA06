@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=30&duration=2000&pause=50&color=F2A6E3&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Disha+%F0%9F%91%8B;Open+Source+%F0%9F%8C%8E" alt="Typing animation" />
 </p>
-
 
 ---
 
@@ -14,10 +12,10 @@
 
 ### 🌷 About Me
 
-- 🎓 B.E. Student |
-- 💻 Dev with a love for clean UI & ✨ Tailwind Magic
-- 🌸 Passionate about open-source, communities & empowering tech
-- 💬 Always up for collabs, memes, and making funside-projects!
+- 🎓 B.E. Student  
+- 💻 Dev with a love for **clean UI & Tailwind Magic**  
+- 🌸 Passionate about **open-source, communities, and empowering tech**  
+- 💬 Always up for **collabs, memes, and fun side-projects**  
 
 ---
 
@@ -29,15 +27,15 @@
 
 ---
 
-### 📈 GitHub 
+### 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DishaA06&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff90b3&fire=ffa5d8&currStreakLabel=ffc6e0&border=DDDDDD00" />
+  <img src="https://streak-stats.demolab.io/?user=DishaA06&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff90b3&fire=ffa5d8&currStreakLabel=ffc6e0&border=DDDDDD00" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DishaA06&show_icons=true&theme=bubblegum&icon_color=ff90b3&title_color=ffa5d8&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaA06&layout=compact&theme=bubblegum&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DishaA06&show_icons=true&theme=bubblegum&icon_color=ff90b3&title_color=ffa5d8&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaA06&layout=compact&theme=bubblegum&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -45,24 +43,26 @@
 ### 💌 Let’s Link Up
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/disha-oza-bba48928a/"><img src="https://img.shields.io/badge/LinkedIn-DishaOza-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/croqi_us?utm_source=ig_web_button_share_sheet&igsh=MWJqNXFvOHc3cnptNA=="><img src="https://img.shields.io/badge/Instagram-ARTPAGE-pink?style=for-the-badge&logo=Instagram" /></a>
-<!--     <a href="mailto:doza57524@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p> -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=doza57524@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-DishaOza-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/disha-oza-bba48928a/">
+    <img src="https://img.shields.io/badge/LinkedIn-DishaOza-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/croqi_us/">
+    <img src="https://img.shields.io/badge/Instagram-ARTPAGE-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:doza57524@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DishaOza-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 🌼 A quote I live by
+### 🌼 A Quote I Live By
 
-> _“All you've been is all you'll ever be ”_  
-> — Idk who
+> _“All you've been is all you'll ever be.”_  
+> — Unknown
 
 ---
 
 <sub align="center">
-Built with ☕, 🍜, and a lot of Ctrl+Z.(being fr)
+Built with ☕, 🍜, and a lot of Ctrl+Z (being real).  
 </sub>
