@@ -28,23 +28,8 @@
 ---
 
 ### 📈 GitHub Stats & Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DishaA06&theme=tokyonight)
 
-<!-- GitHub Streak: Shows the commit streak for the user.
-Source: https://www.google.com/search?q=https://streak-stats.demolab.io/ -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.io/?user=DishaA06&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff90b3&fire=ffa5d8&currStreakLabel=ffc6e0&border=DDDDDD00" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-<!-- Main Stats Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDishaA06%26show_icons%3Dtrue%26theme%3Dbubblegum%26icon_color%3Dff90b3%26title_color%3Dffa5d8%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDishaA06%26layout%3Dcompact%26theme%3Dbubblegum%26hide_border%3Dtrue%26langs_count%3D6" alt="Top Languages" />
-</p>
 
 ### 💌 Let’s Link Up
 
