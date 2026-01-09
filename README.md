@@ -10,19 +10,19 @@
 
 ---
 
-### 🌷 About Me
+###  ABOUT ME 
 
-- 🎓 B.E. Student  
-- 💻 Dev with a love for **clean UI & Tailwind Magic**  
-- 🌸 Passionate about **open-source, communities, and empowering tech**  
-- 💬 Always up for **collabs, memes, and fun side-projects**  
+-  B.E. Student  
+-  Dev with a love for **clean UI & Tailwind Magic**  
+-  Passionate about **open-source, communities, and empowering tech**  
+-  Always up for **collabs, memes, and fun side-projects**  
 
 ---
 
-### 🌸 My Tech Stack
+### TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,blender,java,vscode,figma&perline=12" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,blender,java,vscode&perline=12" alt="Skill icons" />
 </p>
 
 ---
@@ -55,5 +55,5 @@
 ---
 
 <sub align="center">
-Built with ☕, 🍜, and a lot of Ctrl+Z (being real).  
+Built with coffee noodles and a lot of Ctrl+Z (being real).  
 </sub>
