@@ -27,11 +27,11 @@
 
 ---
 
-### 📈 GitHub Stats & Streak
+###  GitHub Stats & Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DishaA06&theme=tokyonight)
 
 
-### 💌 Let’s Link Up
+###  Let’s Link Up
 
 <p align="center">
   <a href="https://www.linkedin.com/in/disha-oza-bba48928a/">
